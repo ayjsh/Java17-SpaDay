@@ -24,3 +24,23 @@ table {
             padding: 10px;
             text-align: center;
 }
+#clientProfile {
+}
+
+.footer > div> div#red-polish {
+background-color:red;
+}
+.footer > div> div#blue-polish {
+background-color:blue;
+color:white;
+}
+.footer > div> div#green-polish {
+background-color:green;
+color:white;
+}
+
+.footer > div > div {
+    width:50px;
+    display: inline;
+
+}
